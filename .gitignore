@@ -2,6 +2,7 @@
 .env
 .env.local
 .env.*
+!.env.example
 
 # uv 虚拟环境目录
 .venv/
@@ -30,4 +31,4 @@ build/
 tmp/
 
 # README
-readme.md
+# readme.md
